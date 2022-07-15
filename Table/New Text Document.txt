@@ -1,0 +1,27 @@
+CREATE TABLE Teacher (
+    Name varchar(255),
+    Surname varchar(255),
+    Gender varchar(10),
+    Subject varchar(255),
+    PRIMARY KEY (subject)
+);
+
+CREATE TABLE Student (
+    Name varchar(255),
+    Surname varchar(255),
+    Gender varchar(10),
+    Grade Int(255),
+    PRIMARY KEY (Grade)
+);
+CREATE TABLE isTeaching (
+    Grade Int(255),
+    Name varchar(255),
+    FOREIGN KEY (Grade) REFERENCES Student (Grade)
+    FOREIGN KEY (Name) REFERENCES Teacher (Name)
+);
+
+
+Select Surname.t
+from Teachers t, Students s , isTeaching i
+where surname.t = surname.i && grade.i = grade.s && name.s="Giorgi"
+Group by surname.t

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\New folder (2)\Stairs\Stairs\bin\Debug\Stairs.exe.config
+C:\Users\Admin\Desktop\New folder (2)\Stairs\Stairs\bin\Debug\Stairs.exe
+C:\Users\Admin\Desktop\New folder (2)\Stairs\Stairs\bin\Debug\Stairs.pdb
+C:\Users\Admin\Desktop\New folder (2)\Stairs\Stairs\obj\Debug\Stairs.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\Stairs\Stairs\obj\Debug\Stairs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder (2)\Stairs\Stairs\obj\Debug\Stairs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\Stairs\Stairs\obj\Debug\Stairs.exe
+C:\Users\Admin\Desktop\New folder (2)\Stairs\Stairs\obj\Debug\Stairs.pdb

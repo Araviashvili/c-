@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\New folder (2)\NotContains\NotContains\bin\Debug\NotContains.exe.config
+C:\Users\Admin\Desktop\New folder (2)\NotContains\NotContains\bin\Debug\NotContains.exe
+C:\Users\Admin\Desktop\New folder (2)\NotContains\NotContains\bin\Debug\NotContains.pdb
+C:\Users\Admin\Desktop\New folder (2)\NotContains\NotContains\obj\Debug\NotContains.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\NotContains\NotContains\obj\Debug\NotContains.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder (2)\NotContains\NotContains\obj\Debug\NotContains.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\NotContains\NotContains\obj\Debug\NotContains.exe
+C:\Users\Admin\Desktop\New folder (2)\NotContains\NotContains\obj\Debug\NotContains.pdb

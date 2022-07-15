@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\New folder (2)\IsProperly\IsProperly\obj\Debug\IsProperly.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\IsProperly\IsProperly\obj\Debug\IsProperly.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder (2)\IsProperly\IsProperly\obj\Debug\IsProperly.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\IsProperly\IsProperly\bin\Debug\IsProperly.exe.config
+C:\Users\Admin\Desktop\New folder (2)\IsProperly\IsProperly\bin\Debug\IsProperly.exe
+C:\Users\Admin\Desktop\New folder (2)\IsProperly\IsProperly\bin\Debug\IsProperly.pdb
+C:\Users\Admin\Desktop\New folder (2)\IsProperly\IsProperly\obj\Debug\IsProperly.exe
+C:\Users\Admin\Desktop\New folder (2)\IsProperly\IsProperly\obj\Debug\IsProperly.pdb
